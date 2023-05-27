@@ -1,5 +1,5 @@
-# [https://wpxss.com/application/wp-content/plugins/seo-friendly-wordpress-images-with-auto-alt-tag-plugin/](Auto Alt Tag WordPress plugin)
-[https://wpxss.com/application/wp-content/plugins/seo-friendly-wordpress-images-with-auto-alt-tag-plugin/](Auto Alt Tag WordPress plugin)
+# [Auto Alt Tag WordPress plugin]([https://wpxss.com/application/wp-content/plugins/seo-friendly-wordpress-images-with-auto-alt-tag-plugin/)
+
 ![Screenshot](assets/Automatically-add-Alt-Tags-to-all-post-images-from-the-post-title.png.webp)
 
 Auto Alt Tag is a WordPress SEO plugin that automatically updates all images with proper ALT attributes for SEO purposes. If your post images do not have **ALT** tag already set, the plugin will add them automatically.
