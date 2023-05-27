@@ -1,4 +1,4 @@
-# Auto Alt Tag WordPress plugin
+# [https://wpxss.com/application/wp-content/plugins/seo-friendly-wordpress-images-with-auto-alt-tag-plugin/](Auto Alt Tag WordPress plugin)
 
 ![Screenshot](assets/Automatically-add-Alt-Tags-to-all-post-images-from-the-post-title.png.webp)
 
